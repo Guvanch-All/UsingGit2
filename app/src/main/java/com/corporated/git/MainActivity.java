@@ -16,4 +16,5 @@ public class MainActivity extends AppCompatActivity {
     }
     //Connect to Firebase
     //Connect to LoginUp
+    //Connect after pushing to emote
 }
