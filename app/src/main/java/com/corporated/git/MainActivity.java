@@ -15,4 +15,5 @@ public class MainActivity extends AppCompatActivity {
 
     }
     //Connect to Firebase
+    //Connect to LoginUp
 }
